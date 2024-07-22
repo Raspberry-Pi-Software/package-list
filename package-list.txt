@@ -1,2 +1,2 @@
 device-manager
-gpio-playground
+gpioplayground
